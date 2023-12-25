@@ -1,6 +1,6 @@
 # Flutter clean architect
 
-A new Flutter project.
+Template for flutter clean architecture with blocs and cubits
 
 ## Getting Started
 
